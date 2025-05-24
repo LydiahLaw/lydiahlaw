@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Lydiah
 
-Welcome to my GitHub! I’m a cloud and DevOps learner building real-world projects through bootcamps and hands-on practice.I’m currently building and breaking things in AWS, Azure, and GCP — learning cloud engineering the practical way.
+Welcome to my GitHub!  
+I’m a cloud and DevOps learner building real-world projects through bootcamps and hands-on practice.  
+Currently experimenting with AWS, Azure, and GCP — learning cloud engineering the practical way.
+
 ---
 
 ### 🌐 My Website & Blog  
