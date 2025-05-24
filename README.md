@@ -1,18 +1,80 @@
-# 💫 About Me:
-# Hi, I'm Lydiah 👋<br><br>Welcome to my GitHub! I’m a self-taught cloud and DevOps learner documenting my journey through hands-on projects, blog posts, and real-world experiments.<br><br>🌍 I’m currently building and breaking things in AWS, Azure, and GCP — learning cloud engineering the practical way.<br><br>## 🚀 Tagline<br><br>**Cloud engineering meets real-world projects — documented, shared, and human.**<br><br>---<br><br>## 🌐 My Website & Blog<br><br>Check out my portfolio and tech write-ups at:  <br>👉 [cloudwithlydiah.com](https://cloudwithlydiah.com/)<br><br>---<br><br>## 💻 My Skills & Tools<br><br>- **Cloud Platforms:** AWS, Azure, GCP  <br>- **DevOps & Infra Tools:** Git, GitHub Actions, Terraform (learning), Docker (learning)  <br>- **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  <br>- **CI/CD & Monitoring:** Microsoft Defender, AWS CloudWatch, Azure Monitor  <br>- **Languages & Scripting:** Bash, PowerShell, basic Python  <br>- **Other Tools:** Visual Studio Code, WordPress, Canva, TryHackMe, HTB Academy<br><br>---<br><br>## 📌 What I'm Working On<br><br>- Real-world, intermediate cloud projects (check my repos)<br>- Documenting step-by-step AWS setups<br>- Improving my DevOps workflow and automation skills<br>- Writing human-friendly blogs that help others and reinforce my learning<br><br>---<br><br>## 📚 Featured Projects<br><br>🔹 **[AWS Static Website with S3, CloudFront & Route 53](https://github.com/lydiah/aws-static-site-project)**  <br>🔹 More coming soon!<br><br>---<br><br>## 📬 Let's Connect<br><br>- 💼 [LinkedIn: Lydiah Nganga](https://www.linkedin.com/in/lydiah-nganga/)  <br>- 🌐 [Website](https://cloudwithlydiah.com/)  <br>- 📩 Reach out if you’d like to collaborate, mentor, or exchange ideas!<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Lydiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lydiah&show_icons=true&theme=default)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiah&layout=compact)<br><br>---<br><br>> 💡 “Learning in public is powerful — it keeps you accountable and helps others grow alongside you.”<br><br>Thanks for stopping by! 😊<br>
+## 👋 Hi, I'm Lydiah
 
+Welcome to my GitHub! I’m a self-taught cloud and DevOps learner documenting my journey through hands-on projects, blog posts, and real-world experiments.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lydiah-nganga/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lygashiku@gmail.com) 
-
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LydiahLawrence&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LydiahLawrence&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLawrence&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I’m currently building and breaking things in AWS, Azure, and GCP — learning cloud engineering the practical way.
 
 ---
+
+### 🚀 Tagline  
+**Cloud engineering meets real-world projects — documented, shared, and human.**
+
+---
+
+### 🌐 My Website & Blog  
+Check out my portfolio and tech write-ups:  
+👉 [cloudwithlydiah.com](https://cloudwithlydiah.com/)
+
+---
+
+### 💻 My Skills & Tools
+
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **DevOps & Infra Tools:** Git, GitHub Actions, Terraform (learning), Docker (learning)  
+- **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  
+- **CI/CD & Monitoring:** Microsoft Defender, AWS CloudWatch, Azure Monitor  
+- **Languages & Scripting:** Bash, PowerShell, basic Python  
+- **Other Tools:** VS Code, WordPress, Canva, TryHackMe, HTB Academy
+
+---
+
+### 📌 What I'm Working On
+
+- Real-world, intermediate cloud projects (check my repos)
+- Documenting step-by-step AWS setups
+- Improving my DevOps workflow and automation skills
+- Writing human-friendly blogs that help others and reinforce my learning
+
+---
+
+### 📚 Featured Projects
+
+- 🔹 [AWS Static Website with S3, CloudFront & Route 53](https://github.com/lydiah/aws-static-site-project)  
+- 🔹 More coming soon!
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydiah-nganga/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lygashiku@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LydiahLawrence&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=LydiahLawrence&theme=blueberry&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLawrence&theme=blueberry&hide_border=false&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=LydiahLawrence&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> 💡 “Learning in public is powerful — it keeps you accountable and helps others grow alongside you.”
+
+Thanks for stopping by! 😊
