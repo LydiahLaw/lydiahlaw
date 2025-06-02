@@ -17,7 +17,6 @@ Check out my portfolio and tech write-ups:
 - **Cloud Platforms:** AWS, Azure, GCP  
 - **DevOps & Infra Tools:** Git, GitHub Actions, Terraform (learning), Docker (learning)  
 - **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  
-- **CI/CD & Monitoring:** Microsoft Defender, AWS CloudWatch, Azure Monitor  
 - **Languages & Scripting:** Bash, PowerShell, basic Python  
 - **Other Tools:** VS Code, WordPress, Canva, TryHackMe, HTB Academy
 
