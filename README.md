@@ -61,13 +61,13 @@ Check out my portfolio and tech write-ups:
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LydiahLawrence&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=LydiahLawrence&theme=blueberry&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLawrence&theme=blueberry&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LydiahLaw&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=LydiahLaw&theme=blueberry&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLaw&theme=blueberry&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=LydiahLawrence&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LydiahLaw&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > 💡 “Learning in public is powerful — it keeps you accountable and helps others grow alongside you.”
 
