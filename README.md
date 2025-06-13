@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!  
 I’m a cloud and DevOps learner building real-world projects through bootcamps and hands-on practice.  
-Currently experimenting with AWS, Azure, and GCP — learning cloud engineering the practical way.
+Currently experimenting with AWS, and DevOps learning cloud engineering the practical way.
 
 ---
 
@@ -14,8 +14,8 @@ Check out my portfolio and tech write-ups:
 
 ### 💻 My Skills & Tools
 
-- **Cloud Platforms:** AWS, Azure, GCP  
-- **DevOps & Infra Tools:** Git, GitHub Actions, Terraform (learning), Docker (learning)  
+- **Cloud Platforms:** AWS, Azure, GCP
+- **DevOps & Infra Tools:** Git, Kubernetes (preparing for KCNA Exam and practicing simple deployments), Terraform (learning), Docker (learning)
 - **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  
 - **Languages & Scripting:** Bash, PowerShell, basic Python  
 - **Other Tools:** VS Code, WordPress, Canva, TryHackMe, HTB Academy
@@ -28,6 +28,8 @@ Check out my portfolio and tech write-ups:
 - Documenting step-by-step AWS setups
 - Improving my DevOps workflow and automation skills
 - Writing human-friendly blogs that help others and reinforce my learning
+ **Actively open to paid Cloud Engineering or DevOps internship roles (remote or in-person in Kenya)**
+
 
 ---
 
