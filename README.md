@@ -28,7 +28,7 @@ Check out my portfolio and tech write-ups:
 - Documenting step-by-step AWS setups
 - Improving my DevOps workflow and automation skills
 - Writing human-friendly blogs that help others and reinforce my learning
- **Actively open to paid Cloud Engineering or DevOps internship roles (remote or in-person in Kenya)**
+- **Actively open to paid Cloud Engineering or DevOps internship roles (remote or in-person in Kenya)**
 
 
 ---
