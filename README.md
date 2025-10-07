@@ -17,10 +17,10 @@ Check out my portfolio and tech write-ups:
 ### 💻 My Skills & Tools
 
 - **Cloud Platforms:** AWS, Azure, GCP
-- **DevOps & Infra Tools:** Git, Kubernetes (preparing for KCNA Exam and practicing simple deployments), Terraform (learning), Docker (learning)
+- **DevOps & Infra Tools:** Git, Kubernetes, Terraform (learning), Docker (learning)
 - **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  
 - **Languages & Scripting:** Bash, PowerShell, basic Python  
-- **Other Tools:** VS Code, WordPress, Canva, TryHackMe, HTB Academy
+- **Other Tools:** VS Code, WordPress, Github
 
 ---
 
