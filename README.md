@@ -8,7 +8,9 @@ Currently experimenting with AWS, and DevOps learning cloud engineering the prac
 
 ### 🌐 My Website & Blog  
 Check out my portfolio and tech write-ups:  
-👉 [cloudwithlydiah.com](https://cloudwithlydiah.com/)
+👉https://cloudwithlydiah-27wnodw.gamma.site/
+
+
 
 ---
 
