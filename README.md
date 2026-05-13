@@ -4,7 +4,6 @@ Welcome to my GitHub!
 I’m a cloud and DevOps learner building real-world projects through bootcamps and hands-on practice.  
 Currently experimenting with AWS, and DevOps learning cloud engineering the practical way.
 
----
 
 ### 🌐 My Website & Blog  
 Check out my portfolio and tech write-ups:  
@@ -12,17 +11,18 @@ Check out my portfolio and tech write-ups:
 
 
 
----
+
 
 ### 💻 My Skills & Tools
 
 - **Cloud Platforms:** AWS, Azure, GCP
-- **DevOps & Infra Tools:** Git, Kubernetes, Terraform (learning), Docker (learning)
-- **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall  
+- **DevOps & Infra Tools:** Git, Kubernetes, Terraform, Docker,Jenkins
+- **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall 
+- **Monitoring and Observability:** Prometheus, Grafana, Promtail and Loki
 - **Languages & Scripting:** Bash, PowerShell, basic Python  
 - **Other Tools:** VS Code, WordPress, Github
 
----
+
 
 ### 📌 What I'm Working On
 
@@ -47,7 +47,7 @@ Check out my portfolio and tech write-ups:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydiah-nganga/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lygashiku@gmail.com)
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -61,7 +61,7 @@ Check out my portfolio and tech write-ups:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -69,7 +69,7 @@ Check out my portfolio and tech write-ups:
 ![](https://nirzak-streak-stats.vercel.app/?user=LydiahLaw&theme=blueberry&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLaw&theme=blueberry&hide_border=false&layout=compact)
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=LydiahLaw&icon=0&color=0)](https://visitcount.itsvg.in)
 
