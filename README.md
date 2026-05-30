@@ -11,8 +11,6 @@ Check out my portfolio and tech write-ups:
 
 
 
-
-
 ### 💻 My Skills & Tools
 
 - **Cloud Platforms:** AWS, Azure, GCP
@@ -33,14 +31,13 @@ Check out my portfolio and tech write-ups:
 - **Actively open to paid Cloud Engineering or DevOps internship roles (remote or in-person in Kenya)**
 
 
----
 
 ### 📚 Featured Projects
 
 - 🔹 [AWS Static Website with S3, CloudFront & Route 53](https://github.com/lydiah/aws-static-site-project)
 - 🔹 [Cloud-Native Web App with Docker and AWS](https://github.com/LydiahLaw/cloud-webapp-project)
 - 🔹 More coming soon!
----
+
 
 ### 📬 Let's Connect
 
