@@ -1,75 +1,21 @@
-## 👋 Hi, I'm Lydiah
-
-Welcome to my GitHub!  
-I’m a cloud and DevOps learner building real-world projects through bootcamps and hands-on practice.  
-Currently experimenting with AWS, and DevOps learning cloud engineering the practical way.
+# 💫 About Me:
+🔧 I'm currently working on deploying applications into a Kubernetes cluster as part of my StegHub DevOps apprenticeship.<br>🤝 I'm looking to collaborate on open source DevOps/Cloud projects, especially anything involving Terraform, CI/CD pipelines, or cloud infrastructure.<br>🆘 I'm looking for help with breaking into my first full-time Cloud/DevOps role — open to referrals, mentorship, or just a coffee chat!<br>📚 I'm currently learning IT automation and scripting with Python, and deepening my Kubernetes knowledge one project at a time.<br>💬 Ask me about going from BCom Finance to Cloud Engineering, or building a monitoring stack with Prometheus and Grafana on AWS.<br>⚡ Fun fact I used to analyze financial statements — now I analyze pod logs. Turns out debugging a YAML misconfiguration and reconciling accounts have more in common than you'd think.
 
 
-### 🌐 My Website & Blog  
-Check out my portfolio and tech write-ups:  
-👉https://cloudwithlydiah-27wnodw.gamma.site/
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lydiah-nganga/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@LydLaw) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LydiahLaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=LydiahLaw&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LydiahLaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LydiahLaw&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 💻 My Skills & Tools
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LydiahLaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- **Cloud Platforms:** AWS, Azure, GCP
-- **DevOps & Infra Tools:** Git, Kubernetes, Terraform, Docker,Jenkins
-- **Security & Networking:** Kali Linux, Wireshark, Packet Tracer, Azure Firewall 
-- **Monitoring and Observability:** Prometheus, Grafana, Promtail and Loki
-- **Languages & Scripting:** Bash, PowerShell, basic Python  
-- **Other Tools:** VS Code, WordPress, Github
-
-
-
-### 📌 What I'm Working On
-
-- Real-world, intermediate cloud projects (check my repos)
-- Documenting step-by-step AWS setups
-- Improving my DevOps workflow and automation skills
-- Writing human-friendly blogs that help others and reinforce my learning
-- **Actively open to paid Cloud Engineering or DevOps internship roles (remote or in-person in Kenya)**
-
-
-
-### 📚 Featured Projects
-
-- 🔹 [AWS Static Website with S3, CloudFront & Route 53](https://github.com/lydiah/aws-static-site-project)
-- 🔹 [Cloud-Native Web App with Docker and AWS](https://github.com/LydiahLaw/cloud-webapp-project)
-- 🔹 More coming soon!
-
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydiah-nganga/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lygashiku@gmail.com)
-
-
-
-### 🛠️ Tech Stack
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LydiahLaw&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=LydiahLaw&theme=blueberry&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiahLaw&theme=blueberry&hide_border=false&layout=compact)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=LydiahLaw&icon=0&color=0)](https://visitcount.itsvg.in)
-
-> 💡 “Learning in public is powerful — it keeps you accountable and helps others grow alongside you.”
-
-Thanks for stopping by! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
