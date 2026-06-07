@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Lydiah<br>Thanks for stopping by!<br><br>I'm building my career in Cloud and DevOps through hands-on projects, continuous learning, and lots of experimentation.<br><br>You'll find cloud projects, technical documentation, and practical solutions I've built while exploring AWS, automation, security, and infrastructure.<br><br>LydiahLaw<br><br>🔭 I'm currently working on ** I'm currently working on deploying applications into a Kubernetes cluster as part of my StegHub DevOps apprenticeship. **<br><br>🌱 I'm currently learning **I'm currently learning IT automation and scripting with Python, and deepening my Kubernetes knowledge one project at a time. **<br><br>👯 I'm looking to collaborate on **I'm looking to collaborate on open source DevOps/Cloud projects, especially anything involving Terraform, CI/CD pipelines, or cloud infrastructure. **<br><br>💬 Ask me about AWS Projects, Infrastructure as Code, CI/CD Concepts<br><br>📫 How to reach me Lygashiku@gmail.com<br><br>⚡ Fun fact My playlists change more often than my desktop wallpaper.
+👋 Hi, I'm Lydiah<br><br>Thanks for stopping by!<br><br>I'm building my career in Cloud and DevOps through hands-on projects, continuous learning, and lots of experimentation.<br><br>You'll find cloud projects, technical documentation, and practical solutions I've built while exploring AWS, automation, security, and infrastructure.<br><br><br>🔭 I'm currently working on deploying applications into a Kubernetes cluster as part of my StegHub DevOps apprenticeship. <br><br>🌱 I'm currently learning IT automation and scripting with Python, and deepening my Kubernetes knowledge one project at a time. <br><br>👯 I'm looking to collaborate on open source DevOps/Cloud projects, especially anything involving Terraform, CI/CD pipelines, or cloud infrastructure. <br><br>💬 Ask me about AWS Projects, Infrastructure as Code, CI/CD Concepts<br><br>📫 How to reach me Lygashiku@gmail.com<br><br>⚡ Fun fact: My playlists change more often than my desktop wallpaper.
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LydiahLaw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LydiahLaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=LydiahLaw&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=LydiahLaw&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
